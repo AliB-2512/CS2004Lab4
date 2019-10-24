@@ -1,4 +1,4 @@
-# CS2004Lab4
+# CS2004Lab4 - Analysis of Algorithms
 
 Prefix Average Algorithms to
 
